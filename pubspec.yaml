@@ -1,0 +1,38 @@
+name: millima
+description: "Milliy CRM dastur"
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  bloc: ^8.1.4
+  dio: ^5.6.0
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  get_it: ^7.7.0
+  shared_preferences: ^2.3.2
+
+  cupertino_icons: ^1.0.8
+  google_sign_in: ^6.2.1
+  firebase_core: ^2.24.2
+  flutter_facebook_auth: ^7.0.1
+  image_picker: ^1.1.2
+  flutter_datetime_picker: ^1.5.1
+  shimmer: ^3.0.0
+  mockito: ^5.4.4
+  build_runner: ^2.4.12
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CLIENT_ID</key>
+		<string>177101534878-g3eilhc9oaad6q8o7u2ksr0blgs6bg24.apps.googleusercontent.com</string>
+		<key>REVERSED_CLIENT_ID</key>
+		<string>com.googleusercontent.apps.177101534878-g3eilhc9oaad6q8o7u2ksr0blgs6bg24</string>
+		<key>ANDROID_CLIENT_ID</key>
+		<string>177101534878-vfb7puh5f4nlh5omhehlbjqrsv7ok7s2.apps.googleusercontent.com</string>
+		<key>API_KEY</key>
+		<string>AIzaSyDVG3HKMVwHTyEgZSWoC9MxEQI0m-dWVB0</string>
+		<key>GCM_SENDER_ID</key>
+		<string>177101534878</string>
+		<key>PLIST_VERSION</key>
+		<string>1</string>
+		<key>BUNDLE_ID</key>
+		<string>uz.mardonbekmelsov.millima</string>
+		<key>PROJECT_ID</key>
+		<string>millima-app</string>
+		<key>STORAGE_BUCKET</key>
+		<string>millima-app.appspot.com</string>
+		<key>IS_ADS_ENABLED</key>
+		<false></false>
+		<key>IS_ANALYTICS_ENABLED</key>
+		<false></false>
+		<key>IS_APPINVITE_ENABLED</key>
+		<true></true>
+		<key>IS_GCM_ENABLED</key>
+		<true></true>
+		<key>IS_SIGNIN_ENABLED</key>
+		<true></true>
+		<key>GOOGLE_APP_ID</key>
+		<string>1:177101534878:ios:56d21d5bf8a7a12a4c6d8f</string>
+	</dict>
+</plist>

@@ -1,0 +1,12 @@
+export 'auth/authentication_response.dart';
+export 'auth/login_request.dart';
+export 'auth/social_login_request.dart';
+export 'auth/register_request.dart';
+export 'user/user.dart';
+export 'role/role.dart';
+export 'class/class_model.dart';
+export 'room/room_model.dart';
+export 'subject/subject_model.dart';
+export 'timetable/timetable_model.dart';
+export 'timetable/week_day.dart';
+export 'group/group_model.dart';

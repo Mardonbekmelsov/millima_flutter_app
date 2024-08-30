@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "194320600042",
+    "project_id": "millima-293dc",
+    "storage_bucket": "millima-293dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194320600042:android:b27a4830c4f401d5954093",
+        "android_client_info": {
+          "package_name": "com.example.millima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194320600042-n63ijj3jdj598n3ui1ou5k61e9hle7vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.millima",
+            "certificate_hash": "6cd57ffb3385fed5bfeb6ed2d0d5808530e3fe67"
+          }
+        },
+        {
+          "client_id": "194320600042-1g4cpvr7virrk52q2hf7226ahs7fpu7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlBnecm9rWmF0mTTaUw2zdvzJ9hc_0kZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194320600042-1g4cpvr7virrk52q2hf7226ahs7fpu7s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194320600042-6dmo0o57lidpuldhpaa8qt5p4ccjfose.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.millima"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194320600042:android:8a8f5d47eff27bde954093",
+        "android_client_info": {
+          "package_name": "uz.mardonbekmelsov.millima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194320600042-1g4cpvr7virrk52q2hf7226ahs7fpu7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlBnecm9rWmF0mTTaUw2zdvzJ9hc_0kZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194320600042-1g4cpvr7virrk52q2hf7226ahs7fpu7s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194320600042-6dmo0o57lidpuldhpaa8qt5p4ccjfose.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.millima"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
